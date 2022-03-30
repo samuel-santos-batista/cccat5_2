@@ -1,0 +1,16 @@
+{
+  "name": "cccat5_1",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "samuel.batista <samuelsantxxi@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "tsc && jest ./dist"
+  },
+  "devDependencies": {
+    "@types/jest": "^27.4.1",
+    "jest": "^27.5.1",
+    "ts-node": "^10.7.0",
+    "typescript": "^4.6.3"
+  }
+}
