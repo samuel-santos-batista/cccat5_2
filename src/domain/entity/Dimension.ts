@@ -1,4 +1,4 @@
-export class Dimension {
+export default class Dimension {
 
   constructor (readonly width: number, readonly height: number, readonly length: number) {}
 
